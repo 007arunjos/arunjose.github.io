@@ -1,4 +1,8 @@
-# [The Academic CV That Gets You Hired](https://github.com/HugoBlox/theme-academic-cv)
+# arunjose.github.io
+
+---
+
+# The Academic CV That Gets You Hired
 
 [![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/academic-cv/start/?utm_source=github&utm_medium=readme)
 
@@ -36,7 +40,7 @@ Most CVs are static PDFs that get lost in the pile. This is an **intelligent por
 
 <p align="center">
   <a href="https://hugoblox.com/templates/academic-cv/start?utm_source=github&utm_medium=readme">
-    <img src="https://img.shields.io/badge/⚡️%20Get%20Your%20CV%20in%2060s-ff4655?style=for-the-badge" 
+    <img src="https://img.shields.io/badge/⚡️%20Get%20Your%20CV%20in%2060s-ff4655?style=for-the-badge"
     alt="Deploy this template" width="400">
   </a>
 </p>
@@ -123,30 +127,3 @@ Launch a fully hosted site in your browser. No software to install.
 
 ```bash
 npx hugoblox create site --template academic-cv
-```
-
----
-
-## FAQ
-
-- Do I need to know Hugo? No — you can edit visually or write Markdown.
-- Can I host for free? Yes — GitHub Pages/Netlify are supported.
-- Can I export/migrate later? Yes — your site is just files.
-- Can I cancel Pro anytime? Yes.
-
----
-
-## Community & Support
-
-- 💬 [**Discord Community**](https://discord.gg/z8wNYzb)
-- 📚 [**Documentation**](https://docs.hugoblox.com/?utm_source=github&utm_medium=readme)
-- 🐦 [**Follow on X**](https://x.com/BuildLore)
-- ⭐ [**Star on GitHub**](https://github.com/HugoBlox/hugo-blox-builder)
-
----
-
-MIT © 2016-Present [George Cushen](https://georgecushen.com)
-
-<!--START_SECTION:news-->
-<!--Updated at 2025-12-21T02:11:09.323Z-->
-<!--END_SECTION:news-->
